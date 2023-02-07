@@ -1,3 +1,5 @@
 firstCommit
 secondCommit
 thirdCommit
+
+new branch
